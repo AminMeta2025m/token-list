@@ -184615,6 +184615,15 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+  "address": "6TUiQRmhzfWiWdPjEWGispmcUt56d364n2tyFM4oUMzz",
+  "symbol": "ZBH",
+  "name": "ZBH Token",
+  "decimals": 9,
+  "logoURI": "https://gateway.pinata.cloud/ipfs/bafkreiag46umifzwwqwhxjq3zaz5jplkugqmdxqz6b6gt5wpugl4t2bqce",
+  "tags": ["utility-token"]
     }
   ],
   "version": {
